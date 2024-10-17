@@ -2,7 +2,7 @@
 name = "iostream"
 version = "0.1.0"
 description = ""
-authors = ["kimuti-tsukai <ruster354@gmail.com>"]
+authors = ["kimuti-tsukai"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
